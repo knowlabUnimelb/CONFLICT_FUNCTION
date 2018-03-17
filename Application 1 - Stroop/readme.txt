@@ -1,5 +1,5 @@
 \Data\
-- Contains data from Eidels, Townsend & Algom (2009) - Experiment 2 in xlsfiles
+- Contains data from Eidels, Townsend & Algom (2010) - Experiment 2 in xlsfiles
 
 The items correspond to the design in the following manner:
 
