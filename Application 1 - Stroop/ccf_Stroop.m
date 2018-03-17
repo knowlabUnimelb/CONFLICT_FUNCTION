@@ -1,4 +1,4 @@
-% Analyse Exp 2 from Eidels, Townsend & Algom (2009)
+% Analyse Exp 2 from Eidels, Townsend & Algom (2010)
 clear all
 clc
 close all
